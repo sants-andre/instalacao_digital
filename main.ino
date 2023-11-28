@@ -67,7 +67,7 @@ int dados
       { 14, 27, 42, 51 }, // Cariacica
       { 14, 27, 42, 51 }  // BRASIL
     },
-    // Colisões
+    // Internacoes
     { 
       // 2019, 2020, 2021, 2022
       { 14, 27, 42, 51 }, // Vitória
@@ -76,7 +76,7 @@ int dados
       { 14, 27, 42, 51 }, // Cariacica
       { 14, 27, 42, 51 }  // BRASIL
     },
-    // Capotamentos
+    // Gastos Hospitalares
     { 
       // 2019, 2020, 2021, 2022
       { 14, 27, 42, 51 }, // Vitória
