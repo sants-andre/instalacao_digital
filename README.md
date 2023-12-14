@@ -21,6 +21,9 @@ sendo as <em>cidades</em> dispostas nas <em>linhas</em>, os <em>anos</em> nas <e
 Todos os anos, uma infinidade de pessoas são vítimas de acidentes no trânsito, queiram esses terminem em fatalidade ou não, diante disso, esse projeto visa mostrar de maneira informativa e dinâmica alguns dados relacionados a essa temática para a população em geral, através de fitas de Led
 </p>
 
+## Esquemático
+![esquematico](Imagens/0e7befee-a6f6-4e4a-9583-af783733950f.jfif)
+
 ## Componentes
 
 - 1 Arduíno.
