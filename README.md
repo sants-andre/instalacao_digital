@@ -15,6 +15,22 @@ Uma matriz 3d foi usada para acomodar os dados que serão usados, pensada como u
 sendo as <em>cidades</em> dispostas nas <em>linhas</em>, os <em>anos</em> nas <em>colunas</em>, enquanto os rótulos são a profundidade da matriz.
 </p>
 
+## Motivação
+
+<p>
+Todos os anos, uma infinidade de pessoas são vítimas de acidentes no trânsito, queiram esses terminem em fatalidade ou não, diante disso, esse projeto visa mostrar de maneira informativa e dinâmica alguns dados relacionados a essa temática para a população em geral, através de fitas de Led
+</p>
+
+## Componentes
+
+- 1 Arduíno.
+- 3 Resistores de 220Ω.
+- 4 Sensores de Ultrassom.
+- Um visor LCD de 7 segmentos.
+- Um visor LCD 16x2.
+- 2 fitas de LED.
+- 3 Botões para a passagem do tipo de dados.
+
 <h2>Índices</h2>
 
 <div>
@@ -165,5 +181,9 @@ sendo as <em>cidades</em> dispostas nas <em>linhas</em>, os <em>anos</em> nas <e
   </tr>
 </tbody>
 </table>
+
+## Vídeo Informativo
+<a href="https://www.youtube.com/watch?v=-6mdEl3Wj2E&ab_channel=CesarB.Arts">Assista ao nosso vídeo para entender mais!</a>
+
 
 <h2>Referências</h2>
